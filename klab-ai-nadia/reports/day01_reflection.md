@@ -1,0 +1,3 @@
+# Day 01 Reflection
+
+I learned how to use Python fundamentals, including data types, type casting, conditionals, loops, collections, and list comprehensions. I also learned how to create functions, work with NumPy and Pandas, and create and save a chart using Matplotlib. The most confusing part was understanding file paths when saving the chart because the notebook's current working directory affected where the file was saved. Next time, I would check the current working directory and project structure earlier so that I can avoid path errors and organize my files correctly from the beginning.
